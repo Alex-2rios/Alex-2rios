@@ -1,4 +1,4 @@
-## Alex Ríos Carballo
+## Alex Rios Carballo
 
 Computer Systems Engineering student. Cisco certified. Most of what I build ends up being
 infrastructure: servers, containers, networks, and the small machines that report back to them.
